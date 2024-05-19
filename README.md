@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Thailand</h3>
 
 
-- 🔭 I’m currently working on [partner product integration platform](https://www.trueid.net/th-th)
+- 🔭 I’m currently working on [loan ngern tid lor]([https://www.trueid.net/th-th](https://www.tidlor.com/en))
 
 - 🌱 I’m currently learning **golang advance,google cloud platform**
 
